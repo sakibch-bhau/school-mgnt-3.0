@@ -1,30 +1,29 @@
-# School Management System
+# 🏫 School Management System
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A modern, scalable School Management System built with **Next.js**, designed for administrators, teachers, students, and parents to streamline academic and administrative tasks.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sakibch-bhaus-projects/v0-school-management-system)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/4TKjVt3R040)
+## 🚀 Tech Stack
 
-## Overview
+- **Frontend**: [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/)
+- **Backend**: [API Routes in Next.js](https://nextjs.org/docs/api-routes/introduction)
+- **Database**: [Neon (PostgreSQL)](https://neon.tech/)
+- **ORM**: [Prisma](https://www.prisma.io/)
+- **Auth**: [NextAuth.js](https://next-auth.js.org/)
+- **Hosting**: Vercel / any Node hosting platform
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+---
 
-## Deployment
+## 📦 Features
 
-Your project is live at:
+- 🧑‍🎓 **Student Module**: Add, edit, search, and manage students (filter by class, ID, etc.)
+- 👩‍🏫 **Teacher Module**: Manage teacher profiles and subjects
+- 🗓️ **Routine & Calendar**: Class routine, exam calendar, events, holidays
+- 📚 **Course & Class Management**: Assign teachers and students to courses
+- 🧾 **Attendance Tracking**: Daily attendance for both students and teachers
+- 💬 **Notice Board**: Publish announcements school-wide
+- 📈 **Dashboard**: Real-time analytics and summary cards for admin
+- 📁 **Document Upload**: Upload/download files like report cards, homework, etc.
 
-**[https://vercel.com/sakibch-bhaus-projects/v0-school-management-system](https://vercel.com/sakibch-bhaus-projects/v0-school-management-system)**
+---
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/4TKjVt3R040](https://v0.dev/chat/projects/4TKjVt3R040)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## 🗂️ Project Structure
